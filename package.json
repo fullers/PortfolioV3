@@ -1,0 +1,31 @@
+{
+  "name": "portfoliov3",
+  "version": "0.1.0",
+  "description": "Portfolio site created with NodeJs and Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullers/PortfolioV3.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "express-handlebars"
+  ],
+  "author": "Shaun L. Fuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullers/PortfolioV3/issues"
+  },
+  "homepage": "https://github.com/fullers/PortfolioV3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10"
+  }
+}
