@@ -4,8 +4,8 @@ express middleware.
 */
 
 var express = require('express');
-var bodyParser = require('body-parser');
-var methodOverride = require('method-override');
+// var bodyParser = require('body-parser');
+// var methodOverride = require('method-override');
 //var Sequelize = require('sequelize');
 //var models  = require('./models');
 var app = express();
