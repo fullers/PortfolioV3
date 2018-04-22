@@ -2,6 +2,10 @@
   "title": "Portfolio",
   "name": "startbootstrap-creative",
   "version": "4.0.0",
+  "engines": {
+  "node": "8.11.1",
+  "npm": "5.6.0"
+  },
   "description": "Creative is a stylish one page HTML theme for Bootstrap. I used for my Portfolio site.",
   "main": "server.js",
   "scripts": {
@@ -52,9 +56,5 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "3.0.0"
-  },
-  "engines": {
-  "node": "8.11.1",
-  "npm": "5.6.0"
-}
+  }
 }
