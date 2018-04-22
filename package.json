@@ -52,5 +52,9 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "3.0.0"
-  }
+  },
+  "engines": {
+  "node": "8.11.1",
+  "npm": "5.6.0"
+}
 }
