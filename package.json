@@ -38,7 +38,7 @@
     "url": "https://github.com/fullers/PortfolioV3.git"
   },
   "dependencies": {
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.3.1",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "font-awesome": "4.7.0",
